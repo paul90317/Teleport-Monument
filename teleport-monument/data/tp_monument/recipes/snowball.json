@@ -1,0 +1,12 @@
+{
+    "type": "minecraft:smithing",
+    "base": {
+        "item": "minecraft:ender_eye"
+    },
+    "addition": {
+        "item": "minecraft:snow_block"
+    },
+    "result": {
+        "item": "minecraft:snowball"
+    }
+}

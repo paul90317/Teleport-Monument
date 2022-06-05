@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "monument":{
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "tp_monument:monument"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tp_monument:monument/craft"
+    }
+}
