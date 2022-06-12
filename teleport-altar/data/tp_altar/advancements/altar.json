@@ -1,0 +1,13 @@
+{
+    "criteria": {
+        "altar":{
+            "trigger": "recipe_unlocked",
+            "conditions": {
+                "recipe": "tp_altar:altar"
+            }
+        }
+    },
+    "rewards": {
+        "function": "tp_altar:altar/craft"
+    }
+}
